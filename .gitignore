@@ -1,0 +1,17 @@
+Version Code sistemi içerisinde bulunması istenilmeyen bazı dosyalar vardır:
+#İmg
+*.img
+*.jpg
+logo.jpg
+img/klasör ismi
+#videos
+*mp4
+#log
+*.log
+password.txt
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
