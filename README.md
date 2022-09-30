@@ -1,7 +1,7 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repodur. İçerisinde README.md , test.md, index.html, LICENSE ve .gitignore dosyaları bulunmaktadır.
 
-![github](figures/github.png)
+![github](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
 
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
