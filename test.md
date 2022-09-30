@@ -5,16 +5,14 @@
 * list item 1
 - list item 1
 
-''' python
+``` python
 print("hello world")
-'''
+```
 
-''' javascript
+``` javascript
 console.log("hello world")
 function helloworld(){
     console.log("hello world")
 }
-'''
-
-
+```
   
